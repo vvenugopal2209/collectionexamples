@@ -1,0 +1,2 @@
+# collectionexamples
+Collection related examples
